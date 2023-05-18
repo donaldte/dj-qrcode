@@ -5,34 +5,34 @@ Generation des QR code avec Django
 # Etapes 
 
 ## Cloner
-'''
+```
 git clone https://github.com/donaldte/dj-qrcode.git
-'''
+```
 
 ## Positionement
-'''
+```
 cd dj-qrcode
-'''
+```
 ## Creer un Environement virtuel
-'''
+```
 python -m  venv venv
-'''
+```
 ## Activer l'environement virtuel
 Pour les utilisateurs de window
-'''
+```
 venv\Script\activate
-'''
+```
 Pour les utilisateurs de Linux
-'''
+```
 venv/bin/activate
-'''
+```
 ## Installer les requirements
-'''
+```
 pip install -r requirement.txt
-'''
+```
 ## Lancer le serveur
-'''
+```
 python manage.py runserver
-'''
+```
 
 Merci!!
